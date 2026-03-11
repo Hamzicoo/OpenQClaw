@@ -12,7 +12,9 @@
 curl -fsSL https://raw.githubusercontent.com/haroldneo/OpenQClaw/main/scripts/clean-qclaw.sh | bash
 ```
 
-<img src="/Users/Neo/Library/Application Support/typora-user-images/image-20260311170312543.png" alt="image-20260311170312543" style="zoom:50%;" />
+<p align="center">
+  <img src="screenshots/clean-script-demo.png" width="60%" alt="清理脚本执行效果演示" />
+</p>
 
 ---
 
@@ -54,5 +56,5 @@ curl -fsSL https://raw.githubusercontent.com/haroldneo/OpenQClaw/main/scripts/cl
 > 使用过程中遇到任何问题，欢迎扫码加入微信交流群，一起交流讨论 👇
 
 <p align="center">
-  <img src="screenshots/openqclaw-agent-wechat-group-qrcode.png" width="200" alt="OpenQClaw 微信交流群" />
+  <img src="screenshots/openqclaw-agent-wechat-group-qrcode.png" width="260" alt="OpenQClaw 微信交流群" />
 </p>
