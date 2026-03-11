@@ -12,6 +12,8 @@
 curl -fsSL https://raw.githubusercontent.com/haroldneo/OpenQClaw/main/scripts/clean-qclaw.sh | bash
 ```
 
+<img src="/Users/Neo/Library/Application Support/typora-user-images/image-20260311170312543.png" alt="image-20260311170312543" style="zoom:50%;" />
+
 ---
 
 ## Q2：之前安装过 OpenQClaw，点击弹窗中的"立即更新"后无法正常使用了
@@ -33,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/haroldneo/OpenQClaw/main/scripts/cl
 
 **解决方法：** 经尝试，可通过**自定义模型**继续使用 OpenQClaw。测试确认可使用 **GLM-5、MiniMax M2.5、Qwen3.5** 等模型。
 
-在 OpenQClaw 的**"自定义模型"**设置中添加模型信息即可继续使用。
+在 OpenQClaw 的**自定义模型**设置中添加模型信息即可继续使用。
 
 ---
 
@@ -52,5 +54,5 @@ curl -fsSL https://raw.githubusercontent.com/haroldneo/OpenQClaw/main/scripts/cl
 > 使用过程中遇到任何问题，欢迎扫码加入微信交流群，一起交流讨论 👇
 
 <p align="center">
-  <img src="screenshots/openqclaw-agent-wechat-group-qrcode.png" width="260" alt="OpenQClaw 微信交流群" />
+  <img src="screenshots/openqclaw-agent-wechat-group-qrcode.png" width="200" alt="OpenQClaw 微信交流群" />
 </p>
